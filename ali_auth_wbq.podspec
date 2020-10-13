@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/wbq1098/flutter_ali_auth_wbq_pod.git'
   s.license          = 'MIT'
   s.author           = { 'wbq' => 'wbq1098@163.com' }
-  s.source           = { :git => "https://github.com/wbq1098/flutter_ali_auth_wbq_pod.git", :tag = '0.0.4' }
+  s.source           = { :git => 'https://github.com/wbq1098/flutter_ali_auth_wbq_pod.git', :tag => '0.0.4' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
