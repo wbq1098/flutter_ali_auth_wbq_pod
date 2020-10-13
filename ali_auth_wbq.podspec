@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version          = '0.0.4'
   s.summary          = 'ali_auth_wbq.'
   s.description      = '是一个集成阿里云号码认证服务SDK的flutter插件'
-  s.homepage         = 'https://github.com/wbq1098/flutter_ali_auth_wbq.git'
+  s.homepage         = 'https://github.com/wbq1098/flutter_ali_auth_wbq_pod.git'
   s.license          = 'MIT'
   s.author           = { 'wbq' => 'wbq1098@163.com' }
   s.source           = { :path => '.' }
